@@ -1,4 +1,4 @@
-# Introduction to Sprague-Grundy Strategy
+# Optimal Gameplay in Take Away Sticks: Leveraging the Sprague-Grundy Strategy
 
 The Sprague-Grundy theory, also known as the theory of impartial games, is a mathematical concept used in game theory to analyze and determine optimal strategies in two-player games. It applies to games where players take turns making moves and neither player has an inherent advantage based on the position of the game alone.
 
@@ -40,6 +40,6 @@ To play the game, run the provided Python script. You will be prompted to enter 
 
 ## GUI of the Game
 
-![Stick Game GUI](img1.png)
-![Entering No.of Sticks](img2.png)
-![Game Result](img3.png)
+![Stick Game GUI](images/img1.png)
+![Entering No.of Sticks](images/img2.png)
+![Game Result](images/img3.png)
