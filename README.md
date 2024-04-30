@@ -40,6 +40,6 @@ To play the game, run the provided Python script. You will be prompted to enter 
 
 ## GUI of the Game
 
-![Stick Game GUI](images/img1.png)
-![Entering No.of Sticks](images/img2.png)
-![Game Result](images/img3.png)
+![Stick Game GUI](Images/img1.png)
+![Entering No.of Sticks](Images/img2.png)
+![Game Result](Images/img3.png)
