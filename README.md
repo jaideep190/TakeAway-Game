@@ -33,7 +33,13 @@ In the Python implementation of the Take Away Sticks game, the `calculate_grundy
 
 To play the game, run the provided Python script. You will be prompted to enter the number of sticks to start with. Then, take turns with the computer to remove 1, 2, or 3 sticks until there are no sticks left. The player who removes the last stick wins the game.
 
+## Additional Resources
+
+- **Report PDF:** For further details and analysis, refer to the [report PDF](Report.pdf) included in this repository.
+
+
 ## GUI of the Game
 
-![Stick Game GUI](image.png)
-
+![Stick Game GUI](img1.png)
+![Entering No.of Sticks](img2.png)
+![Game Result](img3.png)
